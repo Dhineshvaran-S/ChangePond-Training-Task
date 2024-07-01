@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <center>
+        <h2>Form</h2>
+
+        <form method="get">
+            <div> <label for="fname">Enter your full name</label>
+             <input type="text" name="fname" id="fname" placeholder="Enter your name" minlength="3" maxlength="20"  required>
+             </div> <br>
+             <label for="pass">Enter your password/label>
+             <input type="password" name="pass" id="pass" placeholder="Enter your pass" >
+                 <div> <br>
+             <label for="mail">Enter your email</label>
+             <input type="email" name="mail" id="mail" placeholder="Enter your email">
+                     </div> <br>
+             <label for="num">Enter your number</label>
+             <input type="number" name="num" id="num" placeholder="Enter your num">
+                     <div> <br>
+             <label for="dob">Enter your dob</label>
+             <input type="date" name="dob" id="dob" placeholder="Enter your dob">
+                 </div> <br>
+             <label for="time">Enter your time</label>
+             <input type="date" name="time" id="time" placeholder="Enter your time">
+                         <div> <br>
+             <label for="age">Enter your age</label>
+             <input type="number" name="age" id="age" placeholder="Enter your age">
+             <div> <br>
+                 <label for ="gender">Select your grnder </label>
+                 <input type="radio" name="gender" id="gender" value ="male"> male
+                 <input type="radio" name="gender" id="gender" value ="female"> Female
+                 <input type="radio" name="gender" id="gender" value ="Transgender"> Transgender
+     
+             </div>
+             <br>
+             <div>
+                 <label for ="Course">Select your course</label>
+                 <select name="course" id="course" required>
+                 <option value="">angular</option>
+                 <option value="">react</option>
+                 <option value="">python </option>
+                 <option value="">java</option>
+             </select>
+             </div>
+             <br>
+     
+             <button type="submit">SUBMIT</button>
+             <button type="reset">RESET</button>
+         </form>
+    </center>
+</body>
+</html>

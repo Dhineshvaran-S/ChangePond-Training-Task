@@ -1,0 +1,72 @@
+.logo1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 55%;
+}
+.sub:hover {
+  color: yellow;
+  background-color: brown;
+}
+.sub {
+  height: 50px;
+  width: 100px;
+
+  top: 25px;
+  position: relative;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-evenly;
+
+  /* margin-left: 100px;
+  margin-right: 100px; */
+  background-color: yellowgreen;
+  border: solid 2px black;
+}
+.search {
+  top: 40%;
+  position: relative;
+}
+.titl {
+  top: 25px;
+  position: relative;
+}
+.intropara1 {
+  border: 1px solid white;
+
+  padding: 2px;
+  color: black;
+}
+.img {
+  height: "250px";
+  width: "250px";
+}
+.imgak {
+  display: flex;
+  justify-content: space-between;
+  border: 2px dotted red;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.DIV {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  width: 25%;
+  box-sizing: border-box;
+  margin: 20px;
+  height: 500px;
+}
+.card-img-top {
+  width: 300px;
+  height: 300px;
+}
+.but {
+  position: relative;
+  left: 45%;
+}
+#bg{
+  background-color: blueviolet;
+}
