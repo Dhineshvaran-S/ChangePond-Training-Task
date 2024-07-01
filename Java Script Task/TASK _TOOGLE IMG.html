@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagetoogle</title>
+</head>
+<body>
+    
+<img src="../assets/images/young-girl-holding-film-camera-with-beautiful-zinnia-blooming-field-background-vacation-time_26077-225.avif" id="img" height="500px" width="500px" alt="Find"><br>
+<strong id="imgname">Find</strong><br>
+<button type="button" onclick="changeimg()">Change Image</button>
+
+<script>
+let FindImage = "../assets/images/young-girl-holding-film-camera-with-beautiful-zinnia-blooming-field-background-vacation-time_26077-225.avif";
+let replaceImage = "../assets/images/images.jfif";
+let currentState = "Find";
+
+function changeimg(){
+    if(currentState == "Find") {
+        document.getElementById("img").src = replaceImage;
+        document.getElementById("imgname").innerHTML = "replace";
+        currentState = "replace";
+    } else {
+        document.getElementById("img").src = FindImage;
+        document.getElementById("imgname").innerHTML = "Find";
+        currentState = "Find";
+    }
+}
+</script>
+
+</body>
+</html>
