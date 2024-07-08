@@ -1,0 +1,27 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719921254090,1670,news,200,OK,Thread Group 1-1,text,true,,113340,242,1,1,https://www.stanford.edu/news/,505,0,259
+1719921254090,512,news-0,302,Found,Thread Group 1-1,text,true,,453,119,1,1,http://stanford.edu/news/,505,0,259
+1719921254606,1154,news-1,200,OK,Thread Group 1-1,text,true,,112887,123,1,1,https://www.stanford.edu/news/,1027,0,571
+1719921255765,969,Events,200,OK,Thread Group 1-1,text,true,,101318,246,1,1,https://www.stanford.edu/events/,233,0,0
+1719921255765,233,Events-0,302,Found,Thread Group 1-1,text,true,,456,121,1,1,http://stanford.edu/events/,233,0,0
+1719921255999,735,Events-1,200,OK,Thread Group 1-1,text,true,,100862,125,1,1,https://www.stanford.edu/events/,727,0,0
+1719921256735,734,academics,200,OK,Thread Group 1-1,text,true,,111748,252,1,1,https://www.stanford.edu/academics/,230,0,0
+1719921256735,230,academics-0,302,Found,Thread Group 1-1,text,true,,462,124,1,1,http://stanford.edu/academics/,230,0,0
+1719921256966,503,academics-1,200,OK,Thread Group 1-1,text,true,,111286,128,1,1,https://www.stanford.edu/academics/,439,0,0
+1719921257470,538,research,200,OK,Thread Group 1-1,text,true,,119998,250,1,1,https://www.stanford.edu/research/,227,0,0
+1719921257470,227,research-0,302,Found,Thread Group 1-1,text,true,,460,123,1,1,http://stanford.edu/research/,227,0,0
+1719921257697,311,research-1,200,OK,Thread Group 1-1,text,true,,119538,127,1,1,https://www.stanford.edu/research/,239,0,0
+1719921258010,707,healthcare,200,OK,Thread Group 1-1,text,true,,116705,256,1,1,https://www.stanford.edu/health-care/,234,0,0
+1719921258010,235,healthcare-0,302,Found,Thread Group 1-1,text,true,,466,126,1,1,http://stanford.edu/health-care/,234,0,0
+1719921258245,472,healthcare-1,200,OK,Thread Group 1-1,text,true,,116239,130,1,1,https://www.stanford.edu/health-care/,464,0,0
+1719921258718,1317,campuslife,200,OK,Thread Group 1-1,text,true,,122158,511,1,1,https://www.stanford.edu/campus-life/,233,0,0
+1719921258718,233,campuslife-0,302,Found,Thread Group 1-1,text,true,,462,124,1,1,http://stanford.edu/campuslife,233,0,0
+1719921258951,228,campuslife-1,301,Moved Permanently,Thread Group 1-1,text,true,,707,128,1,1,https://www.stanford.edu/campuslife,228,0,0
+1719921259179,236,campuslife-2,301,Moved Permanently,Thread Group 1-1,text,true,,693,129,1,1,https://www.stanford.edu/campus-life,236,0,0
+1719921259415,620,campuslife-3,200,OK,Thread Group 1-1,text,true,,120296,130,1,1,https://www.stanford.edu/campus-life/,575,0,0
+1719921260036,701,admission,200,OK,Thread Group 1-1,text,true,,111776,252,1,1,https://www.stanford.edu/admission/,227,0,0
+1719921260036,227,admission-0,302,Found,Thread Group 1-1,text,true,,462,124,1,1,http://stanford.edu/admission/,227,0,0
+1719921260264,473,admission-1,200,OK,Thread Group 1-1,text,true,,111314,128,1,1,https://www.stanford.edu/admission/,227,0,0
+1719921260738,773,about,200,OK,Thread Group 1-1,text,true,,127093,244,1,1,https://www.stanford.edu/about/,233,0,0
+1719921260738,233,about-0,302,Found,Thread Group 1-1,text,true,,454,120,1,1,http://stanford.edu/about/,233,0,0
+1719921260971,540,about-1,200,OK,Thread Group 1-1,text,true,,126639,124,1,1,https://www.stanford.edu/about/,493,0,0
