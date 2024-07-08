@@ -1,0 +1,332 @@
+{
+	"id": "65611297-13d9-4d33-9810-f6a46781e447",
+	"name": "Collection1",
+	"timestamp": "2024-07-04T05:50:27.616Z",
+	"collection_id": "36734992-055fa31a-7ae4-4fa8-8586-5808c764e2d1",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 10,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T05:50:23.102Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "469e1327-e772-433c-b71a-be3a779a62d3",
+			"name": "GETNews",
+			"url": "https://www.stanford.edu/news/",
+			"time": 240,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				240
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "12b0d9b5-f140-4ca8-9d7e-d12dd95fdbbb",
+			"name": "GETEvents",
+			"url": "https://www.stanford.edu/events/",
+			"time": 266,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				266
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "c6252f41-8ccd-48c5-9372-f6ad262a3b2a",
+			"name": "GETAcademics",
+			"url": "https://www.stanford.edu/academics/",
+			"time": 242,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				242
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ab8ba100-30e0-4093-a93e-680dc11dad49",
+			"name": "GETResearch",
+			"url": "https://www.stanford.edu/research/",
+			"time": 234,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				234
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "f548253c-65b5-4a7c-9478-56fac7dee519",
+			"name": "GETHealthCare",
+			"url": "https://www.stanford.edu/health-care/",
+			"time": 235,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				235
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "5fd1edfb-4796-4202-af2a-a6b50e643cab",
+			"name": "GETCampusLife",
+			"url": "https://www.stanford.edu/campus-life/",
+			"time": 256,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				256
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "a33d9f24-cff9-4cfe-a675-674e9c8f0817",
+			"name": "GETAdmission",
+			"url": "https://www.stanford.edu/admission/",
+			"time": 239,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				239
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "9e6eaea6-3a8d-4ae2-a83f-9317bae97403",
+			"name": "GETAbout",
+			"url": "https://www.stanford.edu/about/",
+			"time": 248,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				248
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "c53e0cc0-254a-47ee-8671-9320e7871d8c",
+			"name": "GETStudents",
+			"url": "https://www.stanford.edu/student-gateway/",
+			"time": 276,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				276
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "ac8aa2e0-4623-4811-9bf4-926d685fe767",
+			"name": "GETAlumini",
+			"url": "https://alumni.stanford.edu/",
+			"time": 366,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				366
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 2602,
+	"collection": {
+		"requests": [
+			{
+				"id": "469e1327-e772-433c-b71a-be3a779a62d3",
+				"method": "GET"
+			},
+			{
+				"id": "12b0d9b5-f140-4ca8-9d7e-d12dd95fdbbb",
+				"method": "GET"
+			},
+			{
+				"id": "c6252f41-8ccd-48c5-9372-f6ad262a3b2a",
+				"method": "GET"
+			},
+			{
+				"id": "ab8ba100-30e0-4093-a93e-680dc11dad49",
+				"method": "GET"
+			},
+			{
+				"id": "f548253c-65b5-4a7c-9478-56fac7dee519",
+				"method": "GET"
+			},
+			{
+				"id": "5fd1edfb-4796-4202-af2a-a6b50e643cab",
+				"method": "GET"
+			},
+			{
+				"id": "a33d9f24-cff9-4cfe-a675-674e9c8f0817",
+				"method": "GET"
+			},
+			{
+				"id": "9e6eaea6-3a8d-4ae2-a83f-9317bae97403",
+				"method": "GET"
+			},
+			{
+				"id": "c53e0cc0-254a-47ee-8671-9320e7871d8c",
+				"method": "GET"
+			},
+			{
+				"id": "ac8aa2e0-4623-4811-9bf4-926d685fe767",
+				"method": "GET"
+			}
+		]
+	}
+}

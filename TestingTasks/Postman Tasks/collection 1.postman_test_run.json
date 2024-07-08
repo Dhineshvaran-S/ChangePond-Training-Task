@@ -1,0 +1,276 @@
+{
+	"id": "9ba455dd-b634-4f3a-8a85-9b7079cec138",
+	"name": "collection 1",
+	"timestamp": "2024-07-04T11:23:46.636Z",
+	"collection_id": "36734992-89462b87-c2cb-426c-8998-eb50c792d308",
+	"folder_id": 0,
+	"environment_id": "36734992-78de77ce-694a-448b-9ef0-945ade86d331",
+	"totalPass": 50,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-07-04T11:23:41.588Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "e362314c-5e05-4c1f-b2c0-197de48f3fdc",
+			"name": "PUTuser",
+			"url": "http://localhost:8888/user",
+			"time": 16,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 25,
+					"fail": 0
+				}
+			},
+			"times": [
+				58,
+				39,
+				25,
+				30,
+				54,
+				54,
+				26,
+				19,
+				51,
+				15,
+				17,
+				13,
+				13,
+				18,
+				14,
+				48,
+				19,
+				13,
+				17,
+				14,
+				13,
+				16,
+				12,
+				13,
+				16
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "0c5b2d01-a75a-4da2-beb7-353cfd971d9b",
+			"name": "GETuser",
+			"url": "http://localhost:8888/user",
+			"time": 4,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 25,
+					"fail": 0
+				}
+			},
+			"times": [
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				3,
+				4,
+				4,
+				4,
+				3,
+				4,
+				6,
+				4,
+				4,
+				4,
+				5,
+				5,
+				4,
+				4,
+				4,
+				4,
+				3,
+				4
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		}
+	],
+	"count": 25,
+	"totalTime": 728,
+	"collection": {
+		"requests": [
+			{
+				"id": "e362314c-5e05-4c1f-b2c0-197de48f3fdc",
+				"method": "POST"
+			},
+			{
+				"id": "0c5b2d01-a75a-4da2-beb7-353cfd971d9b",
+				"method": "GET"
+			}
+		]
+	}
+}

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="fcb7be24-9cdc-4729-a889-66aea922cfa4" activeEnvironment="Default" name="Project 3" resourceRoot="" soapui-version="5.7.2" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:RestService" id="b6cbd67b-4ef8-4e1b-a24d-d46e54cf4baf" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://reqres.in" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>https://reqres.in</con:endpoint></con:endpoints><con:resource name="Users" path="/api/users" id="48565e54-d687-4cf7-9016-2a9f8c4d3542"><con:settings/><con:parameters><con:parameter><con:name>page</con:name><con:value>2</con:value><con:style>QUERY</con:style><con:default>2</con:default><con:path xsi:nil="true"/><con:description xsi:nil="true"/></con:parameter></con:parameters><con:method name="Users 1" id="5925172f-213e-4dd0-a4d5-e7cda90f88a6" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json; charset=utf-8</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:user="https://reqres.in/api/users">user:Response</con:element></con:representation><con:request name="Request 1" id="8d5c4247-7350-422f-8dc2-89686fc4d19f" mediaType="application/json"><con:settings/><con:endpoint>https://reqres.in</con:endpoint><con:request/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="page" value="2" xmlns="http://eviware.com/soapui/config"/></con:parameters><con:parameterOrder><con:entry>page</con:entry></con:parameterOrder></con:request></con:method></con:resource></con:interface><con:interface xsi:type="con:RestService" id="1543563f-4034-47f5-9cae-99af5a33ec09" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://reqres.in" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>https://reqres.in</con:endpoint></con:endpoints><con:resource name="2" path="/api/users/2" id="d76ebb1b-7655-4572-b1b5-f16f4adc4789"><con:settings/><con:parameters/><con:method name="2 1" id="7d7e11f2-1893-4841-87bc-17b28c02c639" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json; charset=utf-8</con:mediaType><con:status>200</con:status><con:params/><con:element xmlns:ns="https://reqres.in/api/users/2">ns:Response</con:element></con:representation><con:request name="Request 1" id="0960bec5-ca85-4cc9-950a-ee28fc843b6f" mediaType="application/json"><con:settings/><con:endpoint>https://reqres.in</con:endpoint><con:request/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:interface xsi:type="con:RestService" id="86f9e866-e3db-4f9a-b5c0-e8ddac6902bb" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://reqres.in" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>https://reqres.in</con:endpoint></con:endpoints><con:resource name="Users" path="/api/users" id="69f1f1dc-50e9-4047-a9e0-1939e6769a0d"><con:settings/><con:parameters/><con:method name="Users 1" id="9de788e7-92b4-4071-810f-2219bc7cc16f" method="GET"><con:settings/><con:parameters/><con:representation type="RESPONSE"><con:mediaType>application/json; charset=utf-8</con:mediaType><con:status>200 201</con:status><con:params/><con:element xmlns:user="https://reqres.in/api/users">user:Response</con:element></con:representation><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:request name="Request 1" id="aad15a70-11f3-40b6-8f08-aa48e3a415b9" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://reqres.in</con:endpoint><con:request/><con:originalUri>https://reqres.in/api/users</con:originalUri><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:interface><con:testSuite id="09fd4efe-c0ce-4043-b2df-9d8fd2d2e5ee" name="TestSuite 1"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="8d15c486-826e-4974-88c0-2d5bd998ddcc" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="Testcase1" searchProperties="true"><con:settings/><con:testStep type="restrequest" name="Users 1" id="f6bb21d6-fe32-43ac-9ba3-69be03ccd06a"><con:settings/><con:config service="https://reqres.in" resourcePath="/api/users" methodName="Users 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="Users 1" id="8d5c4247-7350-422f-8dc2-89686fc4d19f" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://reqres.in</con:endpoint><con:request/><con:originalUri>https://reqres.in/api/users</con:originalUri><con:assertion type="Simple Contains" id="aca30777-d584-4f76-9032-175da2939d1f" name="Contains"><con:configuration><token>2</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters><entry key="page" value="2" xmlns="http://eviware.com/soapui/config"/></con:parameters><con:parameterOrder><con:entry>page</con:entry></con:parameterOrder></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="UPDATE-" id="e433b7f8-c9fe-4157-9a78-700b948c995a"><con:settings/><con:config service="https://reqres.in" resourcePath="/api/users/2" methodName="2 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="UPDATE-" id="0960bec5-ca85-4cc9-950a-ee28fc843b6f" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://reqres.in</con:endpoint><con:request>George</con:request><con:originalUri>https://reqres.in/api/users/2</con:originalUri><con:assertion type="Simple Contains" id="28f361ee-e9fa-4ab5-96ef-affe973fd5f1" name="Contains"><con:configuration><token>janet</token><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:assertion type="Simple Contains" id="03fd2ff2-c578-4ca4-ab43-f912b2ca9305"><con:configuration/></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="transfer" name="valueadded" id="baa4349a-0b19-4b8c-9103-336820a2db5f"><con:settings/><con:config xsi:type="con:PropertyTransfersStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false"><con:name>transferusername</con:name><con:sourceType>Response</con:sourceType><con:sourceStep>Users 1</con:sourceStep><con:sourcePath>data[2].first_name</con:sourcePath><con:targetType>Request</con:targetType><con:targetStep>create- Request 1</con:targetStep><con:type>JSONPATH</con:type><con:targetTransferType>JSONPATH</con:targetTransferType><con:upgraded>true</con:upgraded></con:transfers><con:transfers setNullOnMissingSource="true" transferTextContent="true" failOnError="true" ignoreEmpty="false" transferToAll="false" entitize="false" transferChildNodes="false"><con:name>put</con:name><con:sourceType>Response</con:sourceType><con:sourceStep>Users 1</con:sourceStep><con:sourcePath/><con:targetType>Request</con:targetType><con:targetStep>create- Request 1</con:targetStep><con:type>JSONPATH</con:type><con:targetTransferType>JSONPATH</con:targetTransferType><con:upgraded>true</con:upgraded></con:transfers></con:config></con:testStep><con:testStep type="restrequest" name="create- Request 1" id="e32b231e-d30a-4f66-8fc7-9cee5ca8e8fc"><con:settings/><con:config service="https://reqres.in" resourcePath="/api/users" methodName="Users 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="create- Request 1" id="aad15a70-11f3-40b6-8f08-aa48e3a415b9" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>https://reqres.in</con:endpoint><con:request>{"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}</con:request><con:originalUri>https://reqres.in/api/users</con:originalUri><con:assertion type="Simple Contains" id="d4574cf6-57cc-46bd-ab91-1117e029ba34" name="Contains"><con:configuration><token/><ignoreCase>false</ignoreCase><useRegEx>false</useRegEx></con:configuration></con:assertion><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="groovy" name="Groovy Script" id="a0b76f92-9724-4d09-b70c-f30604d5b8d5"><con:settings/><con:config><script>def resp = testRunner.testCase.getTestStepByName('Users 1').getPropertyValue('response')
+
+def jsonSlurper = new groovy.json.JsonSlurper()
+def object = jsonSlurper.parseText(resp)
+
+def value = object.data[5].first_name
+testRunner.testCase.getTestStepByName('Properties').setPropertyValue('user',value)</script></con:config></con:testStep><con:testStep type="properties" name="Properties" id="530ab557-8dc5-4992-bd16-ff1b49670a7a"><con:settings/><con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:properties><con:property><con:name>user</con:name><con:value>Rachel</con:value></con:property></con:properties></con:config></con:testStep><con:tearDownScript>testRunner.testCase.testSuite.project.testSuites["Library"].testCases["Reporting_Utility"].
+testSteps["GenerateCSVReport"].run(testRunner, context);</con:tearDownScript><con:properties/></con:testCase><con:properties/></con:testSuite><con:testSuite id="31eb20f6-63dc-4270-81a2-88c560dc32ff" name="library" disabled="true"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="1398990c-69bc-4a4e-bf52-c60c05a13318" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="Reporting_Utility" searchProperties="true"><con:settings/><con:testStep type="groovy" name="GenerateCSVReport" id="880580cc-feaa-4a0d-adcb-742aee51e9e4"><con:settings/><con:config><script>// Try-catch block to handle exceptions
+try {
+
+// 1. Create a "SoapUIResults" folder in the project path 
+      // Retrieve the project root folder
+      def projectPath = new com.eviware.soapui.support.GroovyUtils(context).projectPath
+
+      // Specify a folder inside project root to store the results
+      String folderPath = projectPath + "/SoapUIResults";
+
+      // Create a File object for the specified path
+      def resultFolder = new File(folderPath);
+
+      // Check for existence of folder and create a folder
+      if(!resultFolder.exists())
+      {
+        resultFolder.mkdirs();
+      }
+
+/* ------------------------------------------------------------------------------- */
+
+// 2. Create a subfolder (with timestamp) to store the request-response local copy 
+      // Retrieve the latest execution date-time
+      Date d = new Date();
+      def executionDate = d.format("dd-MMM-yyyy HH_mm");
+
+      // Specify the subfolder path with name Request-Response_CurrentTimeStamp
+      String subfolderPath1 = folderPath+ "/Request-Response_"+executionDate;
+
+      // Create this sub-folder
+      new File(subfolderPath1).mkdirs();
+
+/* ------------------------------------------------------------------------------- */
+
+// 3. Create another subfolder "CSV Reports" to store the reports file 
+      // Specify the subfolder path with name CSV Reports
+      String subfolderPath2 = folderPath+ "/CSV Reports";
+
+      // Create this sub-folder
+      new File(subfolderPath2).mkdirs();
+
+/* ------------------------------------------------------------------------------- */
+
+// 4. Create a Report.csv file inside the CSV Reports folder 
+      // Create a File object for Report csv file (with timestamp)
+      def reportFile = new File(subfolderPath2, "Report_"+executionDate+".csv");
+
+      // Check for existence of report file and create a file
+      if(!reportFile.exists())
+      {
+        reportFile.createNewFile();
+        // Create required column names in the report file
+        reportFile.write('"Test Suite","Test Case","Test Step","Step Type","Step Status",'
+                        +'"Result message","Execution Date"');
+      }
+/* ------------------------------------------------------------------------------- */
+// 5. Inserting data in the file
+      // Iterate over all the test steps results
+  for(stepResult in testRunner.getResults())
+  {
+    // Retrieve Test Suite name
+   def testSuite = testRunner.testCase.testSuite.name;
+   // Retrieve Test Case name
+   def testCase = testRunner.testCase.name;
+   // Retrieve Test Step
+   def testStep = stepResult.getTestStep();
+   // Retrieve Test Step name
+   def testStepName = testStep.name
+   // Retrieve Test Step type
+   def type = testStep.config.type
+   // Retrieve Test Step status
+   def status = stepResult.getStatus()
+
+   // Creating new line in report file
+   reportFile.append('\n');
+
+   // Write all the necessary information in the file
+   reportFile.append('"' + testSuite + '",');
+   reportFile.append('"' + testCase + '",');
+   reportFile.append('"' + testStepName + '",');
+   reportFile.append('"' + type + '",');
+   reportFile.append('"' + status + '",');
+
+   // Retrieve the test result messages
+   reportFile.append('"');
+   for(resMessage in stepResult.getMessages())
+   {
+     // Write messages and separate multiple messages by new line
+     reportFile.append('Message:' + resMessage + '\n');
+   }
+   reportFile.append('",');
+
+   //Write executionDate in the file
+   reportFile.append('"' + executionDate + '",');
+/* ------------------------------------------------------------------------------- */
+// 6. Extract the request and response and save it to external file
+      // Verify if the test step type is request: SOAP project or restrequest: REST project
+        if((type=="request").or(type=="restrequest"))
+        {
+          // Extract the request from the test step
+          def extRequest = testStep.properties["Request"].value;    
+
+      // Create a file in the reports folder and write the request
+      // Naming convention: request_TestSuiteName_TestCaseName_TestStepName.txt
+      def requestFile=subfolderPath1+"/request_"+testSuite+"_"+testCase+"_"+testStepName+".txt";
+      def rqfile = new File(requestFile);
+      rqfile.write(extRequest, "UTF-8");
+
+      // Extract the response from the test step
+      def extResponse = stepResult.getResponseContent();    
+
+      // Create a file in the reports folder and write the response
+      // Naming convention: response_TestSuiteName_TestCaseName_TestStepName.txt
+      def responseFile=subfolderPath1+"/response_"+testSuite+"_"+testCase+"_"+testStepName+".txt";
+      def rsfile = new File(responseFile);
+      rsfile.write(extResponse, "UTF-8");
+     }
+   }
+ }
+catch(exc)
+{
+   log.error("Exception happened: " + exc.toString());
+}
+
+</script></con:config></con:testStep><con:tearDownScript>// Code to execute the GenerateCSVReport test step
+testRunner.testCase.testSuite.project.testSuites["library"].testCases["Reporting_Utility"].
+testSteps["GenerateCSVReport"].run(testRunner, context);</con:tearDownScript><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>

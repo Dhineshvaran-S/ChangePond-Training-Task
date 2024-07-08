@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "pname": "Mouse",
+      "price": 65000,
+      "company": "Hp"
+    },
+    {
+      "id": "3",
+      "pname": "Adaptor",
+      "price": 75000,
+      "company": "Dell"
+    },
+    {
+      "id": "4",
+      "pname": "USB",
+      "price": 85000,
+      "company": "Panasonic"
+    },
+    {
+      "id": "6",
+      "pname": "Cable",
+      "price": 65000,
+      "company": "Lg"
+    },
+    {
+      "id": "9010",
+      "pname": "Charger",
+      "price": "50000",
+      "company": "Thomson"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "userId": "admin@gmail.com",
+      "userpass": "admin123"
+    },
+    {
+      "id": "2",
+      "userId": "adminnew@gmail.com",
+      "userpass": "adminnew123"
+    },
+    {
+      "id": "3",
+      "userId": "adminold@gmail.com",
+      "userpass": "adminold123"
+    }
+  ]
+}
