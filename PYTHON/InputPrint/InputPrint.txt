@@ -1,0 +1,33 @@
+Print() and input() = Built in function 
+print() functiom  is used to get the output 
+                    is used to display the specified mssg screen or other output device 
+
+input() functiom  is used to get input from the user and return it as a string 
+
+[2:09 PM] Kasturi
+>>> 25/5 (Division)
+
+5.0  -> return in float
+
+>>> 25// ->(floor Division)
+
+5 -> return in integer
+
+>>> 24/5
+
+4.8
+
+>>> 24//5
+
+4
+
+>>> 25%5
+
+0
+
+>>> 2**3
+
+8
+
+>>>
+ 

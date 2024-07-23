@@ -1,0 +1,40 @@
+Data Types :
+        are the categories or classification of data items 
+        it represents the kind of value that tells what operations can be performed on a particular data 
+        what operations can be performed on a particular data 
+
+        built - in data type :
+
+        Numeric Integer ,float and complex 
+        sequence type : string,listand tuple 
+        Boolean
+        set 
+        dictionary 
+
+    Mutable and Imutable objects:
+    1.Mutable objects can change their state or content
+    Ex:list,dict,Set
+    2.Imutable objects cannot change their state or content
+    Ex:Numeric,Float,Boolean,string,Tuple
+
+    List:
+    mutable object 
+    is a sequence data type which is used to store collection of data 
+    ordered 
+
+    #tuple 
+    -> immutable object 
+    -> Used to store the values 
+    -> ordered 
+    
+
+    ====================================================================
+
+    f-string 
+     To insert a variable's value into a string ,
+     Place the letter f immediately before opening the quotation mark 
+     Put braces around the variable names 
+     Python will replace each variable with its value when string is displayed 
+     These Strings are called f-strings
+     f-string were introduced in python 3.6 
+     earlier we  

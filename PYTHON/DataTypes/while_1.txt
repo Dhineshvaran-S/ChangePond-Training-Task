@@ -1,0 +1,8 @@
+#while 
+-> while loop is used to execute a block of statements repeatedly untill a given 
+conditions is satified 
+-> when the condition becomes false ,the lines immediately after the  loopin th given 
+program is executed 
+#syntax 
+while (expression):
+    loop body 

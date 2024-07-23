@@ -1,0 +1,4 @@
+range() -> number of sequence 
+start -> default 0
+stop -> excluded 
+step -> default 1 
