@@ -1,0 +1,14 @@
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\bin\Debug\net8.0\inheritclasses.exe
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\bin\Debug\net8.0\inheritclasses.deps.json
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\bin\Debug\net8.0\inheritclasses.runtimeconfig.json
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\bin\Debug\net8.0\inheritclasses.dll
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\bin\Debug\net8.0\inheritclasses.pdb
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\inheritclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\inheritclasses.AssemblyInfoInputs.cache
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\inheritclasses.AssemblyInfo.cs
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\inheritclasses.csproj.CoreCompileInputs.cache
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\inheritclasses.dll
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\refint\inheritclasses.dll
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\inheritclasses.pdb
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\inheritclasses.genruntimeconfig.cache
+C:\Users\dhineshvaran.s\source\repos\inheritclasses\obj\Debug\net8.0\ref\inheritclasses.dll

@@ -1,0 +1,14 @@
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\bin\Debug\net8.0\staticnonstaticcons.exe
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\bin\Debug\net8.0\staticnonstaticcons.deps.json
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\bin\Debug\net8.0\staticnonstaticcons.runtimeconfig.json
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\bin\Debug\net8.0\staticnonstaticcons.dll
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\bin\Debug\net8.0\staticnonstaticcons.pdb
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\staticnonstaticcons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\staticnonstaticcons.AssemblyInfoInputs.cache
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\staticnonstaticcons.AssemblyInfo.cs
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\staticnonstaticcons.csproj.CoreCompileInputs.cache
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\staticnonstaticcons.dll
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\refint\staticnonstaticcons.dll
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\staticnonstaticcons.pdb
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\staticnonstaticcons.genruntimeconfig.cache
+C:\Users\dhineshvaran.s\source\repos\staticnonstaticcons\obj\Debug\net8.0\ref\staticnonstaticcons.dll

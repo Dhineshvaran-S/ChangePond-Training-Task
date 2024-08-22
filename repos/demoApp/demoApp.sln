@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demoApp", "demoApp.csproj", "{BC24302B-31D9-4F67-AFB2-B1F9179B6289}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "oopsdemo", "..\oopsdemo\oopsdemo.csproj", "{8E62A5E9-8CA6-4DCF-A9DE-BBA2DB93C6FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inheritclasses", "..\inheritclasses\inheritclasses.csproj", "{750F5134-1E9A-4E4E-9C85-E3AB68AD904E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC24302B-31D9-4F67-AFB2-B1F9179B6289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC24302B-31D9-4F67-AFB2-B1F9179B6289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC24302B-31D9-4F67-AFB2-B1F9179B6289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E62A5E9-8CA6-4DCF-A9DE-BBA2DB93C6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E62A5E9-8CA6-4DCF-A9DE-BBA2DB93C6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E62A5E9-8CA6-4DCF-A9DE-BBA2DB93C6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750F5134-1E9A-4E4E-9C85-E3AB68AD904E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750F5134-1E9A-4E4E-9C85-E3AB68AD904E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750F5134-1E9A-4E4E-9C85-E3AB68AD904E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750F5134-1E9A-4E4E-9C85-E3AB68AD904E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CC1804-AA6D-420E-896B-913CEE2E07B9}
+	EndGlobalSection
+EndGlobal

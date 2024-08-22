@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Information.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820122357_CompanyDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240820122357_CompanyDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820121937_CompanyDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240820121937_CompanyDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820120502_CompanyDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240820120502_CompanyDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|c:\\users\\dhineshvaran.s\\source\\repos\\webapplicationdemo\\migrations\\20240820123157_companydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7D81B-4C97-4125-85D5-13432B424DAA}|WebApplicationDemo.csproj|solutionrelative:migrations\\20240820123157_companydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Information.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Information.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Company/True/SqlTable/dbo.Information.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-20T12:32:42.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240820123157_CompanyDB.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820123157_CompanyDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240820123157_CompanyDB.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820123157_CompanyDB.cs",
+              "RelativeToolTip": "Migrations\\20240820123157_CompanyDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:31:57.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240820122357_CompanyDB.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820122357_CompanyDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240820122357_CompanyDB.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820122357_CompanyDB.cs",
+              "RelativeToolTip": "Migrations\\20240820122357_CompanyDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:23:58.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Models\\Information.cs",
+              "RelativeDocumentMoniker": "Models\\Information.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Models\\Information.cs",
+              "RelativeToolTip": "Models\\Information.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:03:36.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Models\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:16:27.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:40:17.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:30:25.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:37:29.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240820121937_CompanyDB.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820121937_CompanyDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240820121937_CompanyDB.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820121937_CompanyDB.cs",
+              "RelativeToolTip": "Migrations\\20240820121937_CompanyDB.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:19:37.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240820120502_CompanyDB.cs",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820120502_CompanyDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240820120502_CompanyDB.cs",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\Migrations\\20240820120502_CompanyDB.cs",
+              "RelativeToolTip": "Migrations\\20240820120502_CompanyDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:05:03.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T11:31:51.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dhineshvaran.s\\source\\repos\\WebApplicationDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T11:31:48.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

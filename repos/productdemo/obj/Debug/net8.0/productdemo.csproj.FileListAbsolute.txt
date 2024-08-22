@@ -1,0 +1,14 @@
+C:\Users\dhineshvaran.s\source\repos\productdemo\bin\Debug\net8.0\productdemo.exe
+C:\Users\dhineshvaran.s\source\repos\productdemo\bin\Debug\net8.0\productdemo.deps.json
+C:\Users\dhineshvaran.s\source\repos\productdemo\bin\Debug\net8.0\productdemo.runtimeconfig.json
+C:\Users\dhineshvaran.s\source\repos\productdemo\bin\Debug\net8.0\productdemo.dll
+C:\Users\dhineshvaran.s\source\repos\productdemo\bin\Debug\net8.0\productdemo.pdb
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\productdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\productdemo.AssemblyInfoInputs.cache
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\productdemo.AssemblyInfo.cs
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\productdemo.csproj.CoreCompileInputs.cache
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\productdemo.dll
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\refint\productdemo.dll
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\productdemo.pdb
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\productdemo.genruntimeconfig.cache
+C:\Users\dhineshvaran.s\source\repos\productdemo\obj\Debug\net8.0\ref\productdemo.dll

@@ -1,0 +1,14 @@
+C:\Users\dhineshvaran.s\source\repos\demoApp\bin\Debug\net8.0\demoApp.exe
+C:\Users\dhineshvaran.s\source\repos\demoApp\bin\Debug\net8.0\demoApp.deps.json
+C:\Users\dhineshvaran.s\source\repos\demoApp\bin\Debug\net8.0\demoApp.runtimeconfig.json
+C:\Users\dhineshvaran.s\source\repos\demoApp\bin\Debug\net8.0\demoApp.dll
+C:\Users\dhineshvaran.s\source\repos\demoApp\bin\Debug\net8.0\demoApp.pdb
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\demoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\demoApp.AssemblyInfoInputs.cache
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\demoApp.AssemblyInfo.cs
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\demoApp.csproj.CoreCompileInputs.cache
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\demoApp.dll
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\refint\demoApp.dll
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\demoApp.pdb
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\demoApp.genruntimeconfig.cache
+C:\Users\dhineshvaran.s\source\repos\demoApp\obj\Debug\net8.0\ref\demoApp.dll

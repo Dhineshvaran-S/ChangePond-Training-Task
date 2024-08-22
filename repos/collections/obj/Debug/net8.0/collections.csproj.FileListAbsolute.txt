@@ -1,0 +1,14 @@
+C:\Users\dhineshvaran.s\source\repos\collections\bin\Debug\net8.0\collections.exe
+C:\Users\dhineshvaran.s\source\repos\collections\bin\Debug\net8.0\collections.deps.json
+C:\Users\dhineshvaran.s\source\repos\collections\bin\Debug\net8.0\collections.runtimeconfig.json
+C:\Users\dhineshvaran.s\source\repos\collections\bin\Debug\net8.0\collections.dll
+C:\Users\dhineshvaran.s\source\repos\collections\bin\Debug\net8.0\collections.pdb
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\collections.AssemblyInfoInputs.cache
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\collections.AssemblyInfo.cs
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\collections.dll
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\refint\collections.dll
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\collections.pdb
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
+C:\Users\dhineshvaran.s\source\repos\collections\obj\Debug\net8.0\ref\collections.dll

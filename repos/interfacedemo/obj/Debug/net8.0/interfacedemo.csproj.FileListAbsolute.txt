@@ -1,0 +1,14 @@
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\interfacedemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\interfacedemo.AssemblyInfoInputs.cache
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\interfacedemo.AssemblyInfo.cs
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\interfacedemo.csproj.CoreCompileInputs.cache
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\bin\Debug\net8.0\interfacedemo.exe
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\bin\Debug\net8.0\interfacedemo.deps.json
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\bin\Debug\net8.0\interfacedemo.runtimeconfig.json
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\bin\Debug\net8.0\interfacedemo.dll
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\bin\Debug\net8.0\interfacedemo.pdb
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\interfacedemo.dll
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\refint\interfacedemo.dll
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\interfacedemo.pdb
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\interfacedemo.genruntimeconfig.cache
+C:\Users\dhineshvaran.s\source\repos\interfacedemo\obj\Debug\net8.0\ref\interfacedemo.dll
